@@ -7,5 +7,5 @@ then
      echo "File not empty"
 else
      echo "File empty"
-     dxgfchvj
+     cp ./tt1.txtt /jk/k
 fi
