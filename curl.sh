@@ -7,5 +7,5 @@ then
      echo "File not empty"
 else
      echo "File empty"
-     cd /test
+     dxgfchvj
 fi
