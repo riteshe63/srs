@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sh curl.sh  > tt.txt
+sh curl-api.sh  > tt.txt
 awk '!/200/' tt.txt > tt1.txt
 if [ -s ./tt1.txt ]
 then
